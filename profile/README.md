@@ -1,5 +1,3 @@
-Here is a draft introduction and welcome page for the organization's GitHub account:
-
 # Welcome to ErgoSum's GitHub!
 
 We are excited to share our work with you on GitHub. ErgoSum was founded in 2010 by Nilay Parikh ([LinkedIn](https://www.linkedin.com/in/niparikh/)) and Niketa Parikh ([LinkedIn](https://www.linkedin.com/in/niketa-parikh/)), a dedicated academic and educator. We are based in the United Kingdom and India.
